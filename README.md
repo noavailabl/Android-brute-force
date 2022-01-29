@@ -1,2 +1,2 @@
 # Android-brute-force
-This project is not done yet
+This project is not ready yet
